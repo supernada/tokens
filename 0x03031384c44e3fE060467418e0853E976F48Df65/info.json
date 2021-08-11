@@ -1,0 +1,21 @@
+{
+
+ "name": "LittleCat",
+
+ "website": "http://littlecatbsc.xyz/",
+
+ "description": "Inspired on other little coins, only made to go further. Very high supply, donation to abandoned pets related charities, artists rewards.",
+
+ "explorer": "https://bscscan.com/token/0x03031384c44e3fe060467418e0853e976f48df65",
+
+ "type": "BEP20",
+
+ "symbol": "LCAT",
+ 
+"decimals": 9,
+
+ "status": "active",
+
+ "id": "0x03031384c44e3fE060467418e0853E976F48Df65"
+
+}
